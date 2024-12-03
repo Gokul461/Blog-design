@@ -1,0 +1,8 @@
+nav{
+    display: flex;
+    justify-content: baseline;
+    padding-top:10px;
+}
+body{
+    overflow-y: scroll;
+}
